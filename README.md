@@ -1,4 +1,4 @@
-# Projeto 1 - Jornada do Herói
+# Projeto 4 - Jogo da Ficção Interativa
 
 Esta atividade deverá ser entregue individualmente.
 
